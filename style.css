@@ -1,25 +1,15 @@
 h1{
     color: deepskyblue;
-    ;
     padding-left: 200px;
     padding-top: 200px;
-    font-family: Poppins;
-    font-weight: 900;
-    display: flex;
-    width: 920px;
-    height: 122px;
-    flex-direction: column;
-    justify-content: center;
 
 }
 h2{
     color: deepskyblue;
     padding-left: 200px;
-    width: 920px;
-    height: 122px;
 
 }
 p{
     padding-left: 200px;
-    padding-top: 0%;
+
 }

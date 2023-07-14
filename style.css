@@ -1,5 +1,5 @@
 h1{
-    color: #091E42;
+    color: deepskyblue;
     ;
     padding-left: 200px;
     padding-top: 200px;
@@ -13,10 +13,8 @@ h1{
 
 }
 h2{
-    color: #091E42;
+    color: deepskyblue;
     padding-left: 200px;
-    font-family: Poppins;
-    font-weight: 400;
     width: 920px;
     height: 122px;
 
@@ -24,24 +22,4 @@ h2{
 p{
     padding-left: 200px;
     padding-top: 0%;
-    color: var(--theme-1-neutrals-3, #344563);
-
-/* Body / 1 */
-font-family: Poppins;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 28px; /* 140% */
-}
-.navbar-brand{
-    color: #6070FF;
-    padding-top: 10px;
-    padding: 190px;
-    color: var(--primary-b-400, #6070FF);
-    text-align: center;
-    font-family: Poppins;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 20px; /* 111.111% */
 }
